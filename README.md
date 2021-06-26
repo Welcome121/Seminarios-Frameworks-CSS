@@ -6,17 +6,17 @@
 
 Você deverá criar uma apresentação que explique qualquer um dos seguintes tópicos abaixo:
 
-[] Input de usuário: buttons e forms
-[] Exibição de conteúdo: tables, panels e wells
-[] imagens e media: Images, Thumbnails, Media objects
-[] Alertando usuários: Labels, Badges, Alerts, Progress Bars
-[] Navegação: Tabs, Pills e Tabbed Navigation
-[] Hide and Seek: Collapse e Accordion
-[] Revelando conteúdo: Tooltips, Popovers e Toasts
-[] O Carousel
-[] Janelas Modal e Cards
-[] Barra de navegação: o componente NavBar
-[] Autolocalizacão: Scrollspy e Affix
+- [ ] Input de usuário: buttons e forms
+- [ ] Exibição de conteúdo: tables, panels e wells
+- [ ] imagens e media: Images, Thumbnails, Media objects
+- [ ] Alertando usuários: Labels, Badges, Alerts, Progress Bars
+- [ ] Navegação: Tabs, Pills e Tabbed Navigation
+- [ ] Hide and Seek: Collapse e Accordion
+- [ ] Revelando conteúdo: Tooltips, Popovers e Toasts
+- [ ] O Carousel
+- [ ] Janelas Modal e Cards
+- [ ] Barra de navegação: o componente NavBar
+- [ ] Autolocalizacão: Scrollspy e Affix
 
 **OBS: O tema será repassado ao grupo de acordo com a ordem da criação da issue com a definição do tema.**
 
