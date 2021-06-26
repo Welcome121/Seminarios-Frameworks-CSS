@@ -2,36 +2,35 @@
 
 **Quantidade de alunos por grupo: 3**
 
-**Data: 16/04/2018**
-
-**Valor: 7 pontos**
-
-Esse seminários é dividido em duas partes: apresentação e exercícios.
-
-## Apresentação
+**Data: 25/07/2021**
 
 Você deverá criar uma apresentação que explique qualquer um dos seguintes tópicos abaixo:
 
-- User input: buttons and forms
-- Displaying contents: tables, panels e wells
-- images and media: Images, Thumbnails, Media objects
-- Alerting Users: Labels, Badges, Alerts, Progress Bars
-- Tabs, Pills and Tabbed Navigation
-- Hide and Seek: Collapse, Accordion, Scrollspy and Affix
-- Revealing Content: Tooltips, Popovers and Modals
-- Carousel
+[] Input de usuário: buttons e forms
+[] Exibição de conteúdo: tables, panels e wells
+[] imagens e media: Images, Thumbnails, Media objects
+[] Alertando usuários: Labels, Badges, Alerts, Progress Bars
+[] Navegação: Tabs, Pills e Tabbed Navigation
+[] Hide and Seek: Collapse e Accordion
+[] Revelando conteúdo: Tooltips, Popovers e Toasts
+[] O Carousel
+[] Janelas Modal e Cards
+[] Barra de navegação: o componente NavBar
+[] Autolocalizacão: Scrollspy e Affix
 
-Sua apresentação deverá ter, obrigatóriamente:
+**OBS: O tema será repassado ao grupo de acordo com a ordem da criação da issue com a definição do tema.**
+
+Sua apresentação deverá ser disponibilizada por meio de um vídeo no YouTube, com duração entre 7 e 10 minutos.
+Ainda, ela deverá conter obrigatóriamente:
 
 1. Explicação geral sobre os componentes.
-2. Exemplos de uso (de preferência disponíveis na web via plunkr, jsfiddle, etc.).
-3. Exercício que envolva os componentes apresentados em aula.
-
-*Importante: Seu grupo deverá criar um repositório para entrega dos exercícios, e adicionar o professor como colaborador do repositório.*
+2. Exemplo de uso, que deverão estar disponíveis na web para consulta; recomenda-se o uso de plataformas como plunkr, jsfiddle, repositório github, etc.
 
 
-## Exercícios
+### Entrega
 
-Você deverá escolher um dos tópicos apresentados pelo outro grupo e então fazer o exercício proposto por ele. A metodologia segue a mesma dos exercícios de aula. Fazer o fork, implementar os exercícios, e então entregar na forma de pull request.
-
-*Data de entrega: 17/04/2016*
+A entrega deverá ser feita por meio de uma issue a ser aberta neste repositório contendo:
+* Nome dos integrantes do grupo
+* Link para o vídeo gravado
+* Link para os slides da apresentação
+* Link para o exemplo de código adotado na apresentação
