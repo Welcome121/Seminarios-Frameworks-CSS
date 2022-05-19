@@ -1,0 +1,55 @@
+//Paleta de cores
+$primaryColor: #2E0249;
+$secondaryColor: #570A57;
+$tertiaryColor: #A91079;
+$fourthColor: #F806CC;
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url(../BebasNeue-Regular.ttf) format('truetype');
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+
+    background-color: $primaryColor;
+    color: $fourthColor;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.container div {
+    background-color: $secondaryColor;
+
+    width: 300px;
+    height: 300px;
+
+    margin: 10px;
+    padding: 10px;
+
+    border: 1px solid $tertiaryColor;
+}
+
+.header {
+    text-align: center;
+    margin: 15px;
+}
+
+.logo {
+    font-family: 'Bebas Neue';
+}
